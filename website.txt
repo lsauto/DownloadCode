@@ -1,0 +1,9 @@
+
+************************************************
+mdaisy-v1.0.tar: 
+http://cvlab.epfl.ch/software/daisy/index.php
+
+************************************************
+repeatability_demo.tar
+repeatability.tar
+http://www.robots.ox.ac.uk/~vgg/research/affine/evaluation.html#eval_soft
