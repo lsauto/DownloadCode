@@ -7,3 +7,15 @@ http://cvlab.epfl.ch/software/daisy/index.php
 repeatability_demo.tar
 repeatability.tar
 http://www.robots.ox.ac.uk/~vgg/research/affine/evaluation.html#eval_soft
+
+************************************************
+src_mrogh.zip:
+http://www.openpr.org.cn/index.php/86-MROGH/View-details.html
+
+************************************************
+extract_features.tar:
+http://www.robots.ox.ac.uk/~vgg/research/affine/detectors.html
+
+************************************************
+ssim-1.1:
+http://www.robots.ox.ac.uk/~vgg/software/SelfSimilarity/
